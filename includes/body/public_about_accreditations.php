@@ -1,1 +1,3 @@
--accreditation lists with logos
+<body>
+Accreditations with logos<br>
+</body>
