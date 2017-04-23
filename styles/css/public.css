@@ -1,0 +1,53 @@
+body {
+    height: 100%;
+    width: 100%;
+    position: relative;
+    padding: 0px;
+    background-color: #ebebe7;
+}
+
+@font-face {
+    font-family: Lato Black;
+    src: url(../../styles/fonts/Lato-Black.ttf);
+}
+@font-face {
+    font-family: Lato;
+    src: url(../../styles/fonts/Lato-Regular.ttf);
+}
+
+
+/*NAVIGATION*/
+.nav-div{
+  height: 1%;
+  background-color: #005429;
+}
+
+
+
+
+
+
+
+
+
+
+.banner01{
+  height: 350px ;
+  background-color: black;
+  background-image: url("../../images/Banner01.jpg" );
+}
+
+.banner-title{
+  padding: 150px 100px 10px 200px;
+  font-size: 30px;
+  font-family: Lato Black;
+  font-weight: bold;
+  line-height: 30px;
+}
+.banner-subtitle{
+  padding: 0px 100px 100px 200px;
+  font-size: 15px;
+  font-family: Lato;
+  font-weight: bold;
+  line-height: 10px;
+}

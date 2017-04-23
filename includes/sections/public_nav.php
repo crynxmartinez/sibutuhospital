@@ -1,1 +1,1 @@
-<center>NAVIGATION</center>
+<div class="nav-div"></div>
